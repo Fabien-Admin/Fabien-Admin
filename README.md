@@ -11,7 +11,4 @@ Here are some ideas to get you started:
 - 🔭 Je travaille actuellement sur la certification CompTIA Security+
 - 😄 Passionné de Cybersecurité
 - 💬 Je participe à la résolution de problèmes sur un forum Powershell
-- 👾 Fun fact : accro au FlipperZero 
-
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Fabien-Admin.Fabien-Admin" alt="Fabien-Admin" />
-
+- 👾 Fun fact : accro au FlipperZero
